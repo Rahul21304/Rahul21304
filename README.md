@@ -15,6 +15,7 @@
 * ⚽ Off the clock: football, photography, and leading college cultural initiatives
 
 --- 
+
 ## 🧰 Tech Stack
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
